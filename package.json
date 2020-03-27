@@ -1,0 +1,18 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/Howard86/solidity.git",
+  "author": "Howard Tai <howardtai86@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.0",
+    "@openzeppelin/contracts": "^2.5.0",
+    "ganache-cli": "^6.9.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contract-loader": "^0.6.1",
+    "web3": "^1.2.6"
+  }
+}
